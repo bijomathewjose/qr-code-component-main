@@ -34,6 +34,7 @@ img {
 
 #first {
     margin: auto 32.5px;
+    font-style:bold;
     font-weight: 700;
     font-size:22px;
     color: hsl(218, 44%, 22%);
